@@ -34,7 +34,7 @@ This lecture covers: (i) An introduction to Python in Jupyter notebooks; (ii) Bl
 #### RegTech with Emails
 
 
-## Lecture 8: Robots and Automation
+## Lecture 8: New Technologies for Wealth Management, Risk Management, Trading
 
 #### Goal-Based Asset Management with Robos
 
