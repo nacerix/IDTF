@@ -1,5 +1,7 @@
 # Five Lectures on FinTech 
 
+#### Sanjiv R. Das
+
 This collection of five lectures covers a small selection of topics in FinTech. I will be using slides, readings, referrring to various URLs (web sources) and programming in Python. I will use mostly open source tools, but some in class demos will also use proprietary products. I will host all the materials in *github* at the following repository, from which you may download the needed files (or clone and pull) the repository if you are familiar with using github. See: http://github.com/srdas/IDTF.
 
 The five lectures are described below. The numbering begins from Lecture 6, as there are going to be five lectures preceding this one. 
