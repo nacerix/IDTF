@@ -17,7 +17,7 @@ This lecture covers: (i) An introduction to Python in Jupyter notebooks; (ii) Bl
 - Try out the starting notebooks from here: https://try.jupyter.org/
 - Especially, if you have not use Python before, then please go through the "Welcome to Python" notebook. Open it in your browser and then execute each cell block, you need to use the command Shoft+Enter (as stated there). Look at the output and then compare it with the code. 
 - A good book to get started with Python is "Python for Data Analysis", which I prefer to call **p4da** - it an excellent introduction, and is especially apt because the author WesMcKinney built the Pandas package (Chapter 5) for use at one of the top hedge funds (a good example of a firm that uses FinTech). An older edition is available online: http://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf. I strongly recommend skimming through and learning the first four chapters, and then spending time on chapter 5, giving it a much more careful read. In addition, the best way to learn is to try out lines of code in a Jupyter notebook alongside, as you read. 
-- I will be using the following notebook in class, which will be provided in advance: **GetStarted_Python_in_Finance.ipynb**. You will find this in the course folder. 
+- I will be using the following notebook in class, which will be provided in advance: **GetStarted_Python_in_Finance.ipynb**. You will find this in the course folder. You do not need to work through this before class, but load it up and bring it on your laptop for class. 
 
 #### Blockchains and Payment Systems
 
@@ -26,4 +26,32 @@ This lecture covers: (i) An introduction to Python in Jupyter notebooks; (ii) Bl
 - Coverage will be on both the business and technical aspects of: distributed ledgers; blockchain; cryptocurrency; bitcoin; transaction flow; hash functions; digital signatures; double spending; proof of work; mining; security; malicious attack; Ethereum; smart contracts; merkle tree; gas; difficulty; Ethereum virtual machine; DAO; initial coin offerings; hyperledger; futures; blockchain infrastructure; payment systems; crypto portfolios (see **CryptoPortfolio.ipynb**). 
 
 
-- 
+
+## Lecture 7: Textual Analysis for FinTech and RegTech
+
+#### Text Mining Financials
+
+#### RegTech with Emails
+
+
+## Lecture 8: Robots and Automation
+
+#### Goal-Based Asset Management with Robos
+
+#### Automated Systemic Risk Management using Networks
+
+#### Democratized and Crowd-Sourced Trading 
+
+
+## Lecture 9: Automation and Robots
+
+#### Modern Credit Analysis using Machine Learning
+
+#### Data Robots for Automated Analysis
+
+#### Chatbots as Financial Interfaces
+
+
+## Lecture 10: Artificial Intelligence 
+
+#### AI and Deep Learning Applications
