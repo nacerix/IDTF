@@ -2,7 +2,7 @@
 
 #### Sanjiv R. Das
 
-This collection of five lectures covers a small selection of topics in FinTech. I will be using slides, readings, referrring to various URLs (web sources) and programming in Python. I will use mostly open source tools, but some in class demos will also use proprietary products. I will host all the materials in *github* at the following repository, from which you may download the needed files (or clone and pull) the repository if you are familiar with using github. See: http://github.com/srdas/IDTF.
+This collection of five lectures I will teach at the Indian School of Business covers a small selection of topics in FinTech. I will be using slides, readings, referring to various URLs (web sources) and programming in Python. I will use mostly open source tools, but some in class demos will also use proprietary products. I will host all the materials in *github* at the following repository, from which you may download the needed files (or clone and pull) the repository if you are familiar with using github. See: http://github.com/srdas/IDTF.
 
 The five lectures are described below. The numbering begins from Lecture 6, as there are going to be five lectures preceding this one.
 
@@ -84,7 +84,7 @@ This entire lecture deals with financial automation in three separate areas of f
 
 ## Lecture 9: Automation and Robots
 
-We continue with various examples of automation in FinTech. Here we use credit analysis as a exemplar for data robots. The slides for this lecture are in **9_FinTech_ML_Credit**. All Python notebooks, data, and readings are also in the folder. 
+We continue with various examples of automation in FinTech. Here we use credit analysis as a exemplar for data robots. The slides for this lecture are in **9_FinTech_ML_Credit**. All Python notebooks, data, and readings are also in the folder.
 
 #### Modern Credit Analysis using Machine Learning
 
@@ -102,10 +102,18 @@ We continue with various examples of automation in FinTech. Here we use credit a
 
 - Chatbots are a different kind of robot, now being widely used in finance for investor interfacing.
 - We will build a simple chatbot using Lex, which is Amazon's chatbot constructor. See: https://aws.amazon.com/lex/. Review this site before class.
-- The brief notes are in the following PDF: **Chatbot using Lex.pdf".
+- The brief notes are in the following PDF: **Chatbot using Lex.pdf**.
 
 
 
 ## Lecture 10: Artificial Intelligence
 
-#### AI and Deep Learning Applications
+- We examine the role of deep learning in finance. Slides for this lecture are in **10_AI_in_Finance**. Our exploration will lead to a full analysis of the **tensorflow** package for deep learning.
+- We will go through the backpropagation algorithm that drives the speed up of deep learning. And we will understand the role of hardware and data in making this new paradigm so successful.
+- The Python notebook for deep learning is in **FinTech_AI_DeepLearning_InFinance.ipynb**. In this notebook you will learn about **Keras** and **Tensorflow**. See: https://keras.io/, https://www.tensorflow.org/.  
+- We will examine how deep learning is used for option pricing. See Das and Culkin (2017): **CulkinDas_JOIM_2017.pdf**.
+- We will also see how deep learning may be used in an attempt to predict the direction of the stock index.
+- Read **How AI Will Invade Every Corner of Wall Street - Bloomberg.pdf** for an examination of the effect this branch of FinTech on Wall Street. Think about how AI will impact finance in India. Come prepared to offer suggestions.
+- A skeptical view is offered in **Is AI Riding a One-Trick Pony_ - MIT Technology Review.pdf**.
+- Will AI take over humanity? The very interesting article by Francois Chollet, **The impossibility of intelligence explosion – François Chollet – Medium.pdf**, explores this issue. This is a fantastic read. Chollet is also the author of the widely used **Keras** package that is the front end we will use for running **tensorflow** in class.  
+- Please see the other PDF files in the lecture folder for other readings that we will discuss in class.
