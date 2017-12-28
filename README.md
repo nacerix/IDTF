@@ -84,11 +84,26 @@ This entire lecture deals with financial automation in three separate areas of f
 
 ## Lecture 9: Automation and Robots
 
+We continue with various examples of automation in FinTech. Here we use credit analysis as a exemplar for data robots. The slides for this lecture are in **9_FinTech_ML_Credit**. All Python notebooks, data, and readings are also in the folder. 
+
 #### Modern Credit Analysis using Machine Learning
+
+- We begin to look at AI and machine learning in this lecture.
+- We will use Python to analyze a data set for credit card fraud detection, which is a huge problem being handled by modern technologies. Credit card companies that do not have good fraud detection algorithms are going to be at a massive disadvantage compared to those that do. The data set we will analyze is here: https://www.kaggle.com/dalpozz/creditcardfraud. We will construct a model for detecting fraud. This is a "needle in a haystack" problem, because fraud constitutes around 0.2% of all transactions. Please read this web site before class.
+- The Python notebook with this analysis is in **CC_Fraud_RF.ipynb**.
+- We will examine how to solve the sample imbalance problem using SMOTE, an oversampling technique.
 
 #### Data Robots for Automated Analysis
 
+- Here, we see how modern data analysis robots may be used to eliminate human modelers. The fact that we can just feed the data into a tool which then finds the best model is astonishing, and indicates how even white-collar jobs are now at risk. We will use https://www.datarobot.com/. This is a licensed software that is inexpensive for students in case you wish to try it out.
+- As a second example, we will also use the same technology to let a machine learn about credit scoring from a database of small loans. Please review the following problem before class: https://www.kaggle.com/wendykan/lending-club-loan-data.
+
 #### Chatbots as Financial Interfaces
+
+- Chatbots are a different kind of robot, now being widely used in finance for investor interfacing.
+- We will build a simple chatbot using Lex, which is Amazon's chatbot constructor. See: https://aws.amazon.com/lex/. Review this site before class.
+- The brief notes are in the following PDF: **Chatbot using Lex.pdf".
+
 
 
 ## Lecture 10: Artificial Intelligence
