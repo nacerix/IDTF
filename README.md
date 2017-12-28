@@ -31,9 +31,24 @@ This lecture covers: (i) An introduction to Python in Jupyter notebooks; (ii) Bl
 
 ## Lecture 7: Textual Analysis for FinTech and RegTech
 
-#### Text Mining Financials
+#### Text Analytics
 
-#### RegTech with Emails
+- In this lecture, we will undertake a somewhat detailed look at why and how text analytics is becoming an important part of the FinTech revolution. 
+- We will use Python and learn many Python tools for text analytics. 
+- In the first Python notebook titled **TextMining** we introduce basic text analysis. Please work through this before class. 
+- The package that is useful is known as **NLTK**, and this stands for "Natural Language Tool Kit". See http://www.nltk.org/book/. 
+- We will learn how to import textual data from the web using the *requests* package, and also clean it up using the *Beautiful Soup* package. (Note: when you see the "import" command in Python, it is importing a package, and this means that the package needs to be installed. Sometimes the package is already part of the base installation. But it may not be. In such cases when you import the package it will throw an error. Then go ahead and install the package using the "pip install" command followed by the package name.)
+- We will learn how to sentiment score text, and discuss how this may be used for financial modeling. For a detailed exposition of text mining in finance, please read the book titled "Text and Context: Language Analytics for Finance" (Das 2014): http://srdas.github.io/Papers/Das_TextAnalyticsInFinance.pdf.
+- In the **TwitterAnalysis.ipynb** notebook, we will see how to handle a large collection of tweets. This is a popular input into automated trading strategies. We will also learn how to pull tweets online using the Twitter API, and then sentiment score these tweets. 
+- In the **IndiaNewsExtractor.ipynb** notebook, we will see how to pull news topics from the Economic Times. Here we will learn how to use CSS selectors. We will also learn various text analytics operations such as removing punctuation, numbers, stopwords, stemming, etc. We will consider the notion of a Corpus. The basic text data structure is a "Term Document Matrix" which we will construct from real data, and see why it is a fundamental starting point for textual analysis. We will also use this to construct Wordclouds. 
+- We will use a large Reuters data set of news articles to demonstrate advanced topics in financial text analysis, such as: topic modeling; word2vec; t-SNE representations. Again, this will be done using the NLTK package. 
+
+#### RegTech
+
+- In RegTech we discuss how technology enables new opportunities in financial regulation. 
+- As a example we will look at how emails may be used as an early warning indicator of financial failure. The paper titled "Zero-Revelation RegTech: Detecting Risk through Linguistic Analysis of Corporate Emails and News" (Das, Kim, Kothari 2017) will be discussed, and you may download the paper here: http://srdas.github.io/Papers/EnronZeroRev.pdf. The slides to accompany this part of the class are in **7_Enron_Text_Analytics**. 
+- Also come prepared to discuss how RegTech may be implemented in India. 
+
 
 
 ## Lecture 8: New Technologies for Wealth Management, Risk Management, Trading
