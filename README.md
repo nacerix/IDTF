@@ -106,7 +106,7 @@ We continue with various examples of automation in FinTech. Here we use credit a
 
 
 
-## Lecture 10: Artificial Intelligence
+## Lecture 10: Artificial Intelligence in FinTech
 
 - We examine the role of deep learning in finance. Slides for this lecture are in **10_AI_in_Finance**. Our exploration will lead to a full analysis of the **tensorflow** package for deep learning.
 - We will go through the backpropagation algorithm that drives the speed up of deep learning. And we will understand the role of hardware and data in making this new paradigm so successful.
