@@ -19,6 +19,7 @@ This lecture covers: (i) An introduction to Python in Jupyter notebooks; (ii) Bl
 - Read the PDF file "Python Tutorial for Absolute Beginners.pdf" in the folder for Lecture 6.
 - A good book to get started with Python is "Python for Data Analysis", which I prefer to call **p4da** - it an excellent introduction, and is especially apt because the author WesMcKinney built the Pandas package (Chapter 5) for use at one of the top hedge funds (a good example of a firm that uses FinTech). An older edition is available online: http://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf. I strongly recommend skimming through and learning the first four chapters, and then spending time on chapter 5, giving it a much more careful read. In addition, the best way to learn is to try out lines of code in a Jupyter notebook alongside, as you read.
 - I will be using the following notebook in class, which will be provided in advance: **GetStarted_Python_in_Finance.ipynb**. You will find this in the course folder. You do not need to work through this before class, but load it up and bring it on your laptop for class.
+- Python is the lingua franca of FinTech, see for example: https://stxnext.com/blog/2017/09/19/why-python-should-be-technology-choice-your-fintech/ and https://www.cleveroad.com/blog/see-why-python-is-the-best-programming-language-for-fintech-software.
 
 #### Blockchains and Payment Systems
 
