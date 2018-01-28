@@ -25,10 +25,9 @@ This lecture covers: (i) An introduction to Python in Jupyter notebooks; (ii) Bl
 
 - Next, we will move on to a technical exposition of blockchains and related cryptocurrencies. You will have already obtained some familiarity with this topic from earlier lectures.
 - The slides for this lectures are in: **6_BlockChains_and_Cryptocurrencies**. Within these slides there will also be links to more readings. This is to incentivize you to go through the slides in advance and follow the links and do some more reading to facilitate discussion in class. This is expected of you.
-- Coverage will be on both the business and technical aspects of: distributed ledgers; blockchain; cryptocurrency; bitcoin; transaction flow; hash functions; digital signatures; double spending; proof of work; mining; security; malicious attack; Ethereum; smart contracts; merkle tree; gas; difficulty; Ethereum virtual machine; DAO; initial coin offerings; hyperledger; futures; blockchain infrastructure; payment systems; crypto portfolios (see **CryptoPortfolio.ipynb**).
+- Coverage will be on both the business and technical aspects of: distributed ledgers; blockchain; cryptocurrency; bitcoin; transaction flow; hash functions; digital signatures; double spending; proof of work; mining; security; malicious attack; Ethereum; smart contracts; merkle tree; gas; difficulty; Ethereum virtual machine; DAO; initial coin offerings; hyperledger; futures; blockchain infrastructure; payment systems; crypto portfolios (see **CryptoPortfolios.ipynb**).
 - Please read all the PDF files in the lecture folder.
-- See also the bitcoin implementation for educational purposes: https://github.com/julienr/ipynb_playground/blob/master/bitcoin/dumbcoin/dumbcoin.ipynb
-
+- The two Python notebooks for this segment are: **SimpleCryptocurrencyCode.ipynb** and **CryptoPortfolios.ipynb**.
 
 
 ## Lecture 7: Textual Analysis for FinTech and RegTech
