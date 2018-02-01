@@ -9,7 +9,7 @@
 4. What do you think will happen when all BTC have been issued?
 5. Why might BTC be less useful? What are the drawbacks?
 6. Compare Proof of Work (PoW) versus Proof of Stake (PoS).
-7. How is Ethereum better or worse than Bitcoin?
+7. How is Ethereum better or worse than Bitcoin in terms of the underlying blockchain technology?
 8. Is portfolio theory applicable to cryptocurrencies?
 9. Why is blockchain technology likely to be disruptive?
 
